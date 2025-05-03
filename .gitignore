@@ -6,5 +6,4 @@ out/
 target/
 *.iml
 .idea/
-out/
 *.log
